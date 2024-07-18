@@ -1,1 +1,1 @@
-# pytorch-examples
+# Learning Deep Learning with PyTorch
